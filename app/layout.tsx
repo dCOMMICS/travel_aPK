@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 
 export const metadata: Metadata = {
-  title: 'Travel wEBSITE',
+  title: 'tRAVEL wEBSITE',
   description: 'tRAVEL AND cAMPING WEBSITE',
 }
 
@@ -17,7 +17,7 @@ export default function RootLayout({
       <body>
 
       {children}
-      
+
       </body>
     </html>
   )
