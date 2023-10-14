@@ -2,9 +2,9 @@
 
 const Navbar = () => {
   return (
-    <div>
-      
-    </div>
+    
+    <nav className="border-2 border-red-500"></nav>  
+    
   )
 }
 
